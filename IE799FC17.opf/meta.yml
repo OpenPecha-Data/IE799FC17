@@ -1,0 +1,457 @@
+id: IE799FC17
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:42:29.159920'
+last_modified: '2022-05-30T21:42:29.159926'
+parser: null
+source_metadata:
+  title: Jamyang Khyentse Wangpo Series
+  language: it
+  description: 'Texts by and about the great Rimé (“nonsectarian”) master Jamyang
+    Khyentse Wangpo (''jam dbyangs mkhyen brtse''i dbang po, 1820–1892), one of the
+    most influential figures of recent times:'
+  volume:
+    f6439:
+      title: 'A Few Words of Commentary to Clarify The Essence of Nectar: Graduated
+        Stages of the Path—Advice for Renunciant Meditators'
+      base_file: f6439.txt
+      order: 1
+      parent: Advice
+    f4141:
+      title: 'The Essence of Nectar: Graduated Stages of the Path — Advice for Renunciant
+        Meditators'
+      base_file: f4141.txt
+      order: 2
+      parent: Advice
+    fCEFC:
+      title: Aspiration for the Spread of the Khyentse Tradition
+      base_file: fCEFC.txt
+      order: 3
+      parent: Aspiration Prayers
+    f24B6:
+      title: Biography of Jamyang Khyentse Wangpo
+      base_file: f24B6.txt
+      order: 4
+      parent: Biography
+    f405B:
+      title: The Life of Jamyang Khyentse Wangpo
+      base_file: f405B.txt
+      order: 5
+      parent: Biography
+    fB58B:
+      title: Prayer to the Siddha Virūpa
+      base_file: fB58B.txt
+      order: 49
+      parent: Prayers
+    f0383:
+      title: 'The Hook of Compassion: Calling the Guru from Afar'
+      base_file: f0383.txt
+      order: 7
+      parent: Calling the Guru from Afar
+    fB873:
+      title: 'A Few Remarks: An Explanation of the Praise to Noble Mañjuśrī known
+        as Glorious Wisdom’s Excellent Qualities'
+      base_file: fB873.txt
+      order: 8
+      parent: Commentaries
+    fAE38:
+      title: Recitation Manual for the Natural Liberation of Suffering
+      base_file: fAE38.txt
+      order: 9
+      parent: Commentaries
+    fF604:
+      title: Guide to the Practice of Narak Kong Shak
+      base_file: fF604.txt
+      order: 10
+      parent: Confession
+    f7A4A:
+      title: 'The Rain of Virtue and Goodness: A Short Practice for Consecrating Representations
+        of Enlightened Body, Speech and Mind'
+      base_file: f7A4A.txt
+      order: 11
+      parent: Consecration
+    f92C2:
+      title: 'The Vajra Lute: A Brief Fulfilment for the Guru Practice of Vidyādhara-Assembly'
+      base_file: f92C2.txt
+      order: 12
+      parent: Fulfilment
+    fE53E:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      base_file: fE53E.txt
+      order: 13
+      parent: Guru Yoga
+    f5449:
+      title: 'The Swift Infusion of Blessings: A Prayer and Aspiration for the Stages
+        of the Path Combined with Guru Yoga'
+      base_file: f5449.txt
+      order: 14
+      parent: Guru Yoga
+    fBAE3:
+      title: A Brief History of the Sacred Image of White Tārā
+      base_file: fBAE3.txt
+      order: 15
+      parent: History
+    fA977:
+      title: The History of the Hearing Lineage of the Profound and Secret Practice
+        of Siṃhamukhā
+      base_file: fA977.txt
+      order: 16
+      parent: History
+    f9CAD:
+      title: 'A Shower of Great Bliss: A Lineage Prayer for the Guru Yoga based on
+        Vajrasattva'
+      base_file: f9CAD.txt
+      order: 17
+      parent: Lineage Prayers
+    f370E:
+      title: 'Bestower of the Light of Intelligence: A Prayer to the Lineage of the
+        Profound Sādhana Based Upon the Praise to Venerable Mañjughoṣa'
+      base_file: f370E.txt
+      order: 18
+      parent: Lineage Prayers
+    fCC98:
+      title: 'Source of Magnificent Blessing: A Prayer to the Lineage of the Secret
+        Practice of the Great Compassionate One, Natural Liberation of Suffering'
+      base_file: fCC98.txt
+      order: 19
+      parent: Lineage Prayers
+    f6CFA:
+      title: Supplement to the Omniscient Ngorchen Kunga Zangpo’s Prayer to the Lineage
+        of Parting from the Four Attachments
+      base_file: f6CFA.txt
+      order: 20
+      parent: Lineage Prayers
+    f6652:
+      title: 'The Flower of Faith: A Prayer to the Twenty-Five Founders of Buddha''s
+        Teachings in Tibet'
+      base_file: f6652.txt
+      order: 21
+      parent: Lineage Prayers
+    f110B:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      base_file: f110B.txt
+      order: 22
+      parent: Lineage Prayers
+    f3482:
+      title: 'The Seed of Faith: A Prayer to the Sublime Ones'
+      base_file: f3482.txt
+      order: 23
+      parent: Lineage Prayers
+    fB2BD:
+      title: 'The Shower of Great Bliss: A Prayer to the Lineage of the Female Awareness-Holder
+        (Yumka)'
+      base_file: fB2BD.txt
+      order: 24
+      parent: Lineage Prayers
+    f8C0F:
+      title: Ambrosia for the Mind
+      base_file: f8C0F.txt
+      order: 25
+      parent: Lojong
+    fBBEE:
+      title: 'Nectar of the Heart: An Experiential Song of Parting from the Four Attachments'
+      base_file: fBBEE.txt
+      order: 26
+      parent: Lojong
+    fD70F:
+      title: Prayer for the Long Life of the Third Dodrupchen, Jigme Tenpai Nyima
+      base_file: fD70F.txt
+      order: 27
+      parent: Long Life Prayers
+    f8C62:
+      title: 'Words of Advice on Accomplishing Immortality: An Extremely Concise Daily
+        Practice Uniting the Short Lineages of Amitāyus and Hayagrīva'
+      base_file: f8C62.txt
+      order: 28
+      parent: Longevity
+    fD31E:
+      title: 'Wisdom''s Bestowal: A Way to Accumulate the Recitation of the Tantra
+        ''Chanting the Names of Mañjuśrī'' (Mañjuśrī Nāma Saṃgīti)'
+      base_file: fD31E.txt
+      order: 29
+      parent: Mañjuśrī
+    f6DB4:
+      title: 'A Profound Concentration of Nectar: Essentialized Stages of Visualization
+        for the Preliminary Practices of the Heart Essence of the Vast Expanse (Longchen
+        Nyingtik)'
+      base_file: f6DB4.txt
+      order: 30
+      parent: Ngöndro
+    fDF08:
+      title: 'Illuminating the Excellent Path to Omniscience: Notes on the Longchen
+        Nyingtik Ngöndro'
+      base_file: fDF08.txt
+      order: 31
+      parent: Ngöndro
+    f1EEA:
+      title: 'The Excellent Path to Enlightenment: A Brief Practice of the Preliminaries'
+      base_file: f1EEA.txt
+      order: 32
+      parent: Ngöndro
+    f40AB:
+      title: A Brief Practice of Consecrating Amṛta for the Vidyādhara Assembly
+      base_file: f40AB.txt
+      order: 33
+      parent: Offering
+    f6373:
+      title: Concise Seven-Heap Maṇḍala Offering
+      base_file: f6373.txt
+      order: 34
+      parent: Offering
+    f9236:
+      title: Offering the Eight Auspicious Substances and Seven Emblems of Royalty
+      base_file: f9236.txt
+      order: 35
+      parent: Offering
+    fA768:
+      title: Short Maṇḍala Offering
+      base_file: fA768.txt
+      order: 36
+      parent: Offering
+    f4A39:
+      title: 'The Offering Clouds of the Indestructible Ladies of Sound: Concise Garland
+        of Offerings of the Sixteen Vajra Goddesses'
+      base_file: f4A39.txt
+      order: 37
+      parent: Offering
+    f89C4:
+      title: In Praise of Jamyang Khyentse Wangpo
+      base_file: f89C4.txt
+      order: 38
+      parent: Praise
+    f3FDC:
+      title: 'Music to Delight the Ḍākinī: A Praise to the Deathless Mandāravā'
+      base_file: f3FDC.txt
+      order: 39
+      parent: Praise
+    f5F9F:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      base_file: f5F9F.txt
+      order: 40
+      parent: Prayers
+    fEF03:
+      title: Prayer to Chökyi Wangpo, the Bodhisattva and Tamer of Beings
+      base_file: fEF03.txt
+      order: 41
+      parent: Prayers
+    fB6B1:
+      title: Prayer to Jamyang Khyentse Wangpo
+      base_file: fB6B1.txt
+      order: 42
+      parent: Prayers
+    f235D:
+      title: Prayer to Jamyang Khyentse Wangpo
+      base_file: f235D.txt
+      order: 43
+      parent: Prayers
+    f34B0:
+      title: Prayer to Jamyang Khyentse Wangpo and Jamyang Khyentse Chökyi Lodrö
+      base_file: f34B0.txt
+      order: 44
+      parent: Prayers
+    f81F7:
+      title: Prayer to Jamyang Khyentse Wangpo, Jamgön Kongtrul and Jamyang Khyentse
+        Chökyi Lodrö
+      base_file: f81F7.txt
+      order: 45
+      parent: Prayers
+    fE300:
+      title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+      base_file: fE300.txt
+      order: 46
+      parent: Prayers
+    f8AAE:
+      title: Prayer to Root and Lineage Masters, and the Assembly of Deity, Ḍākinīs
+        and Dharma Protectors of the Sakya Lineage
+      base_file: f8AAE.txt
+      order: 47
+      parent: Prayers
+    f7A88:
+      title: Prayer to Thangtong Gyalpo
+      base_file: f7A88.txt
+      order: 48
+      parent: Prayers
+    fDB79:
+      title: Supplication to Lord Buddha together with the Sixteen Arhats
+      base_file: fDB79.txt
+      order: 50
+      parent: Prayers
+    f6EB9:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      base_file: f6EB9.txt
+      order: 51
+      parent: Prayers
+    f353B:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      base_file: f353B.txt
+      order: 52
+      parent: Prayers
+    f7491:
+      title: 'The Sweet-Sounding Song that Fulfils All Aims: A Prayer to Noble Tārā
+        Combined with Her Root Mantra'
+      base_file: f7491.txt
+      order: 53
+      parent: Prayers
+    f384F:
+      title: Words of Jamyang Khyentse
+      base_file: f384F.txt
+      order: 54
+      parent: Prayers
+    fB238:
+      title: 'A Beautiful and Wondrous Udumbara Garland: A Supplication and Summary
+        of the Chronicles of Padma, The Life and Liberation of the Precious Guru of
+        Uḍḍiyāna'
+      base_file: fB238.txt
+      order: 55
+      parent: Prayers to Guru Rinpoche
+    fDEA9:
+      title: A Brief Prayer to the Precious Master Padmākara for Swiftly Fulfilling
+        Wishes
+      base_file: fDEA9.txt
+      order: 56
+      parent: Prayers to Guru Rinpoche
+    f3F0A:
+      title: 'Essence of the Profound Path: A General Visualization for Prayers to
+        Guru Rinpoche'
+      base_file: f3F0A.txt
+      order: 57
+      parent: Prayers to Guru Rinpoche
+    f00F9:
+      title: 'The Chariot of the Vidyādharas: An Aspiration Prayer for Travelling
+        to the Realm of Lotus Light'
+      base_file: f00F9.txt
+      order: 58
+      parent: Prayers to Guru Rinpoche
+    f55FB:
+      title: 'The Heart of Blessings: A Brief Anthology of Prayers to Guru Rinpoche
+        and the Twenty-Five Disciples, the King and Subjects'
+      base_file: f55FB.txt
+      order: 59
+      parent: Prayers to Guru Rinpoche
+    fD405:
+      title: 'Turning Back Obstacles and Adverse Circumstances: A Prayer to Orgyen
+        Rinpoche, Embodiment of All Sources of Refuge'
+      base_file: fD405.txt
+      order: 60
+      parent: Prayers to Guru Rinpoche
+    f1EE8:
+      title: 'Wish-Fulfilling Feast of Siddhis: An Aspiration Prayer to Orgyen Rinpoche,
+        the Precious Master of Oddiyana'
+      base_file: f1EE8.txt
+      order: 61
+      parent: Prayers to Guru Rinpoche
+    f2D64:
+      title: A Brief Practice of Paying Homage and Making Offerings to the Sixteen
+        Elders
+      base_file: f2D64.txt
+      order: 62
+      parent: Sādhanas
+    f757B:
+      title: Activities for Uncovering Primordial Wisdom from the Chimé Pakmé Nyingtik,
+        ‘The Heart Essence of the Sublime Lady of Immortality’
+      base_file: f757B.txt
+      order: 63
+      parent: Sādhanas
+    fF747:
+      title: 'Fast Track to Happiness and Peace: A Very Brief Meditation and Recitation
+        of the Medicine Buddha'
+      base_file: fF747.txt
+      order: 64
+      parent: Sādhanas
+    f6EDB:
+      title: 'Moonlight of Pacifying Amṛta: A Daily Visualization and Recitation for
+        the Dispeller of All Samaya Corruptions and Pollutions'
+      base_file: f6EDB.txt
+      order: 65
+      parent: Sādhanas
+    f3F4D:
+      title: The Essential Activity Manual for the Awesome Ones’ Assembly, the Heart
+        Practice of Vidyādharas, from the Heart Essence of the Vast Expanse
+      base_file: f3F4D.txt
+      order: 66
+      parent: Sādhanas
+    f8A17:
+      title: 'The Heart of Wish-Fulfilling Jewels: A Brief Practice for Paying Homage
+        and Making Offerings to the Buddha together with his retinue of Arhats'
+      base_file: f8A17.txt
+      order: 67
+      parent: Sādhanas
+    fDFFD:
+      title: 'The Single Mudrā: A Daily Practice for the Awesome Ones’ Assembly (Palchen
+        Düpa), the Heart Practice of the Awareness-Holders'
+      base_file: fDFFD.txt
+      order: 68
+      parent: Sādhanas
+    fC113:
+      title: The Single-Form Daily Practice from Chimé Pakmé Nyingtik (The Heart Essence
+        of the Sublime Lady of Immortality)
+      base_file: fC113.txt
+      order: 69
+      parent: Sādhanas
+    fDB02:
+      title: The Visualization of the Four Goddesses of the Great Compassionate One,
+        Natural Liberation of Suffering
+      base_file: fDB02.txt
+      order: 70
+      parent: Sādhanas
+    f2D22:
+      title: 'Increasing Life and Vitality: A Practice for Freeing Lives'
+      base_file: f2D22.txt
+      order: 71
+      parent: Saving Lives
+    fAFB9:
+      title: Prayer for the Swift Rebirth of Jamyang Khyentse Wangpo
+      base_file: fAFB9.txt
+      order: 72
+      parent: Swift Rebirth Prayers
+    fDBE6:
+      title: A Section of the Vajrakīla Root Tantra
+      base_file: fDBE6.txt
+      order: 73
+      parent: Tantra
+    f26DC:
+      title: The Twenty-Eight Commitments
+      base_file: f26DC.txt
+      order: 74
+      parent: Tantra
+    fE4E6:
+      title: 'A Glorious Garland of the Two Accomplishments: An Abridged Feast-Offering
+        for the Female Practice of the Ḍākinī'
+      base_file: fE4E6.txt
+      order: 75
+      parent: Tsok
+    f7918:
+      title: 'Essence of Accomplishment: A Concise Feast-Offering to Noble Tārā'
+      base_file: f7918.txt
+      order: 76
+      parent: Tsok
+    f309A:
+      title: 'Harmonious Clouds of Sublime and Lasting Bliss: A Vajra Song for the
+        Tsok Feast Offering to Venerable and Exalted Vajrayoginī'
+      base_file: f309A.txt
+      order: 77
+      parent: Tsok
+    fBB7C:
+      title: Short Tsok Offering to the Powerful Lady Kurukullā
+      base_file: fBB7C.txt
+      order: 78
+      parent: Tsok
+    f63BA:
+      title: 'Song and Dance to Delight the Ḍākas and Ḍākinīs: An Aspiration for the
+        Sixfold Satisfaction of the Maṇḍala of the Feast-Gathering'
+      base_file: f63BA.txt
+      order: 79
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
